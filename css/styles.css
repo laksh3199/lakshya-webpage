@@ -51,8 +51,8 @@ a:hover{
 .head{
   margin:5px 10px;
   color:#a3d2ca;
-  position: relative;
-  right:520px;
+  position: absolute;
+  left:20px;
 }
 
 .text{
@@ -83,8 +83,8 @@ a:hover{
 }
 .profile-pic{
   border-radius: 30%;
-  hieght:100px;
   width:100px;
+
 }
 .bottom-container{
   background-color: #11698e;
@@ -94,13 +94,13 @@ a:hover{
 
 .top-cloud{
   position:absolute;
-  right:350px;
+  right:250px;
   top:50px;
 }
 
 .bottom-cloud{
   position:absolute;
-  left:350px;
+  left:250px;
   bottom:300px;
 }
 .html-pic{
