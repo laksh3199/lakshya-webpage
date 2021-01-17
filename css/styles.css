@@ -94,13 +94,13 @@ a:hover{
 
 .top-cloud{
   position:absolute;
-  right:175px;
+  right:16.5rem;
   top:50px;
 }
 
 .bottom-cloud{
   position:absolute;
-  left:200px;
+  left:16.5rem;
   bottom:300px;
 }
 .html-pic{
